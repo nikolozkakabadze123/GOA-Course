@@ -1,0 +1,9 @@
+ტექსტურ ფაილში დაწერეთ თუ რა არის web development, რაში გვჭირდება რა ნაწილებისგან შედეგბა, შემდეგ კი დაწერეთ თუ როგორ ვქმნით საიტის frontend-ს, რომელ ტექნოლოგიებს ვიყენებთ, რას ნიშნავს HTML
+
+1.web development არის საიტების შექმნა  
+
+2.web development-ი შედგება ორი ნაწილისგან front end-ი და back end-ის გან 
+
+3.ჩვენ საიტის front end-ს ვქმნით HTML,CSS,JAVA SCRIPT-ის საშუალებით
+
+4.HTML-ი ნიშნავს   Hypertext markup language

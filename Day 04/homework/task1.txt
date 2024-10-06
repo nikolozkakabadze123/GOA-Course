@@ -1,0 +1,24 @@
+1) Sololearn შეასრულეთ Debugging სექციის ჩათვლით (Introduction to Python)
+
+შევასრულე სოლოლერნი debugging სექციის ჩათვლით
+
+ისწავლეთ ახალი სიტყვები:
+
+integer, int - მთელ რიცხვს
+float - ათწილადი
+string, str - ტექსტური მონაცემი
+data type - მონაცემთა ტიპი
+concatenate - კონკატინაცია, იგივე მიწერა
+reassigning - რედეკლარაცია, მნიშვნელობის თავიდან ჩაწერა
+run - გაშვება
+screen - ეკრანი
+number - რიცხვი
+define - შექმნა
+bug - შეცდომა
+debugging - შეცდომების აღმოფხვრა
+typo - წერის შეცდომა
+execute - გაშვება, ამოქმედება შესრულება
+interrupt - ხელისშეშლა
+encounter - შეყრა, აღმოჩენა
+
+სიტყვებიც ვისწავლე

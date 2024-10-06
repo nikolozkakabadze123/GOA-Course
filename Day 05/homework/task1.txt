@@ -1,0 +1,32 @@
+1) Sololearn შევასრულე HTML Code სექციის ჩათვლით (Introduction to HTML) 
+
+დავაყენე განხილული Extension:
+
+Live server - Visual Studio Code
+
+ისწავლეთ ახალი სიტყვები:
+
+Frontend - საიტის ვიზუალური მხარე, რასთანაც შეხება აქვს მომხმარებელს
+Backend - საიტის ფუნქციონალური მხარე რომელსაც ჩვენ ვერ ვხედავთ
+
+HTML- საიტის სტრუქტურა
+CSS - საიტის სტილი
+JavaScript - ფუნქციონალი
+
+
+
+HTML - HyperText Markup language
+Markup Symbols - <>
+
+Interactivity - მოძრავი
+
+angle brackets - კუთხური ბრჩხილები (<>)
+button - ღილაკი
+content - შიგთავსი
+slash - დახრილი ხაზი (/)
+web - ქსელი
+page - გვერდი
+convert - გადაყვანა
+translate - გადათარგმნა
+user - მომხმარებელი
+run - გაშვება
