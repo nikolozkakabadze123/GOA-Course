@@ -2,17 +2,17 @@
 
 #Declaring a variables book prices
 
-book_price = "7"
+book_price = 7
 
-Book_price = "9"
+Book_price = 9
 
-Book_Price = "18"
+Book_Price = 18
 
-BOOK_price = "22"
+BOOK_price = 22
 
-BOOK_PRICE = "30"
+BOOK_PRICE = 30
 
-discount = "4"
+discount = 4
 
 #Declaring a variable Create new price book variables whose value will be the old value minus the new
 
@@ -30,15 +30,25 @@ new_BOOK_PRICE = BOOK_PRICE - discount
 
 #Declaring a variable book new  prices
 
-new_book_price = "3"
+new_book_price = 3
 
-new_Book_price = "6"
+new_Book_price = 6
 
-new_Book_Price= "14"
+new_Book_Price= 14
 
-new_BOOK_price = "18"
+new_BOOK_Price = 18
 
-new_BOOK_PRICE = "26"
+new_BOOK_PRICE = 26
 
 
+#printing a variable 
 
+print(new_book_price)
+
+print(new_Book_price)
+
+print(new_Book_Price)
+
+print(new_BOOK_Price)
+
+print(new_BOOK_PRICE)

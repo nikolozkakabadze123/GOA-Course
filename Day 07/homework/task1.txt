@@ -1,0 +1,13 @@
+1) Sololearn შევასრულე Module 1 სექციის ჩათვლით (Introduction to HTML)
+
+
+ვისწავლე ახალი სიტყვები:
+
+Header - სათაური
+Search engine - საძიებო ძრავა
+Request - მოთხოვნა
+Level - დონე
+Important - მნიშვნელოვანი
+Attribute - ატრიბუტი, გვაწდვის დამეტებით ინფრომაციას საგნის შესახებ
+Source - წყარო
+Empty - ცარიელი
