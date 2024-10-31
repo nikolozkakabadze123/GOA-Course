@@ -1,0 +1,13 @@
+1) Sololearn შვეასრულე Data Types სექციის ჩათვლით (Introduction to Python)
+
+2)ვისწავლე ახალი სიტყვები:
+
+Output - გამოტანა
+Input - შეტანა
+
+Data Types - მონაცემთა ტიპები
+String - ტექსტური მონაცემი, რომელიცი იწერება ბრჭყალებში
+Integer - მთელი რიცხვი
+Join - გაერთიანება, შესვლა
+Add - დამატება
+concatenation - string ტიპის მონაცემების გაერთიანება
