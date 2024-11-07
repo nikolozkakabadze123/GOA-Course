@@ -1,0 +1,16 @@
+1) Sololearn შვასრულე Comments სექციის ჩათვლით (Introduction to HTML)
+
+
+
+ვისწავლე ახალი სიტყვები:
+
+temporarily - დროებით
+disable - გამორთვა
+organize - მოწესრიგება, დალაგება
+explain - ახსნა, განმარტება
+white space - 1-ზე მეტი space
+line break - ხაზის გაწყვეტა
+head - თავი
+body - ტანი
+content - შიგთავსი
+nesting - ჩაშენება
