@@ -1,0 +1,13 @@
+1) Sololearn შვეასრულე Data Type Checking სექციის ჩათვლით (Introduction to Python)
+
+
+ვისწავლე ახალი სიტყვები:
+
+format - ფორმატი, სახე
+corrupt - კორუმპირებული, გადაგვარებული
+result - შედეგი
+type - ტიპინა
+variety - მრავალფეროვნება
+check - შემოწმება
+division - განაყოფი
+

@@ -1,0 +1,4 @@
+6) გადავხედე რესურსს:
+
+
+https://www.w3schools.com/python/python_variables.asp
