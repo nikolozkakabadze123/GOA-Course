@@ -1,0 +1,17 @@
+1) Sololearn შევასრულე Fixing Data Types სექციის ჩათვლით (Introduction to Python)
+
+
+ვისწავლე ახალი სიტყვები:
+
+survey - გამოკითხვა
+correct - სწორი
+convert - გადაყვანა
+explicit - ხელონვური
+implicit - ბუნებრივი
+multiple - მრავალი
+comparsion - შედარება
+true - ჭეშმარიტი
+false - მცდარი
+electronic circuits - ელექტრონული სექმა
+switch - გადამრთველი
+

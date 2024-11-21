@@ -1,0 +1,5 @@
+5) გაეცანით ინფორმაციას და შეასრულეთ ვებგვერდზე მოცემული დავალება
+
+
+
+https://www.w3schools.com/python/python_casting.asp

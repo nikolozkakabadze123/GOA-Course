@@ -1,0 +1,18 @@
+1) გადაიმეორეთ განვილი მასალა თეორიულად (ხელახლა გაიარეთ Sololearn HTML და Python სადაც გავჩერდით იქამდე) და ჩამოწერეთ თითეული საკითხი ტექსტურ ფაილში
+
+Sololearn:
+1.Memory and variables 
+2.Text data 
+3.Numerical data 
+4.Working with variables
+5.Debugging 
+6.Standarts and best practices
+7.inputs and outputs
+8.Data types
+9.Data type checking
+10.The Core Web Technology
+11.HTML Code
+12.Headings
+13.Images
+14.Landing Page Project
+15.Comments
