@@ -1,0 +1,12 @@
+1) Sololearn შევასრულე Standards & Best Practices სექციის ჩათვლით (Introduction to HTML)
+
+
+ვისწავლე ახალი სიტყვები:
+
+collaboration - თანამშრომლობა
+compatible - თავსებადი
+effective - ეფექტური
+loaded - ჩატვირთული
+indentation - ინდენტაცია (ცარიელი სივრცე ხაზის დასაწყისში)
+best practice - საუკეთესო პრაქტიკა
+
