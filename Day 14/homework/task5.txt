@@ -1,0 +1,5 @@
+5) გადახედეთ რესურსებს:
+
+https://www.w3schools.com/python/gloss_python_comparison_operators.asp
+https://www.w3schools.com/python/gloss_python_comparison_operators.asp
+https://www.w3schools.com/python/gloss_python_logical_operators.asp

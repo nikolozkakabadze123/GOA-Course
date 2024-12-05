@@ -1,0 +1,21 @@
+1) Sololearn შევასრულე Logical Operations სექციის ჩათვლით (Introduction to Python)
+
+
+ვისწავლე ახალი სიტყვები:
+
+comparsion - შედარება
+arithmetic operator - არითმეტიკული ოპერატორი
+comparsion operator - შედარების ოპერატორი
+logical operator - ლოგიკური ოპერატორი
+and - და
+or - ან
+result - შედეგი
+circut - წრედი
+switch - გადართვა/გადამრთველი
+binary - ორობითი
+thing - საგანი
+digital - ციფრული
+boolean - მონაცემთა ტიპი 2 შესაძლო მნიშვნელობით: True, False
+unit - საზომი ერთეული
+trigger - გაღიზიანება, გამოწვევა
+combination - ვარიანტი
