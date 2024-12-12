@@ -1,0 +1,15 @@
+1) Sololearn შევასრულე Text Formatting სექციის ჩათვლით (Introduction to HTML)
+
+
+ვისწავლე ახალი სიტყვები:
+
+inclusive - მომცველი
+accessible - ხელმისაწვდომი
+format - ფორმატი, სახე
+bold - მუქი, გამოკვეთილი
+italic - იტალიური, დახრილი
+underline - ქვედახაზი
+Web accessibility - საიტის თავსებადობა
+Screen reader - ეკრანის მკითხველი
+strong - ძლიერი
+emphasis - აქცენტი
