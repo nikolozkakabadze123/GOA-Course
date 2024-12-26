@@ -1,0 +1,14 @@
+1) Sololearn შევასრულე Links სექციის ჩათვლით (Introduction to HTML)
+
+
+ვისწავლე ახალი სიტყვები:
+
+link - ბმული
+connect - დაკავშირება
+attach - მიმაგრება
+anchor - ღუზა
+matching - შესატყვისი
+destination - დანიშნულების ადგილი
+domain name - ვეგვერდის ძირითადი სახელი
+bullet point - ჩამონათვლის წერტილი
+order - დალაგება, წყობა
