@@ -1,0 +1,6 @@
+5) გავეცანი რესურსებს:
+
+https://www.w3schools.com/html/html_lists.asp
+https://www.w3schools.com/html/html_lists_unordered.asp
+https://www.w3schools.com/html/html_lists_ordered.asp
+https://www.w3schools.com/tags/ref_attributes.asp

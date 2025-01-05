@@ -1,0 +1,22 @@
+1) Sololearn შევასრულე Attributes სექციის ჩათვლით (Introduction to HTML)
+
+
+ვისწავლე ახალი სიტყვები:
+
+unorder - დაულაგებელი
+contain - მოიცავს
+item - ნივთი
+attribute - ატრიუბტი
+optional  - არჩევითი
+required - საჭირო 
+size - ზომა
+label - ეტიკეტი
+width - სიგანე
+height - სიმაღლე
+pair - წყვილი
+aspect ratio - თანაფარდობა
+change - შეცვლა
+distortion - დამახინჯება
+additional - დამატებითი
+correctly - სწორად
+specified - დაზუსტებულივ
